@@ -4,9 +4,9 @@
 $CURRENT_DIR = __DIR__;
 
 /*set page title here*/
-$PAGE_TITLE = "Animsition Demo | Page 1";
+$PAGE_TITLE = "Animsition | Instructions";
 
-/*load head-utils.php*/
+/*inject the entire head tag via php */
 require_once(dirname(__DIR__) . "/php/head-utils.php");
 ?>
 
@@ -22,7 +22,7 @@ require_once(dirname(__DIR__) . "/php/head-utils.php");
 				<div class="container-fluid">
 					<div class="row">
 						<div class="col-xs-12">
-							<h2>page 1</h2>
+							<h2>Instructions</h2>
 						</div>
 					</div>
 				</div>
