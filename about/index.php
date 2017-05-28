@@ -18,11 +18,12 @@ require_once(dirname(__DIR__) . "/php/head-utils.php");
 
 		<!-- BEGIN ANIMSITION PAGE TRANSITIONS -->
 		<main>
-			<div class="animsition">
+			<div class="animsition" data-animsition-in-class="fade-in-up-sm" data-animsition-out-class="fade-out-right-sm">
 				<div class="container-fluid">
 					<div class="row">
 						<div class="col-xs-12">
 							<h2>About</h2>
+							<p>This is some content right here.</p>
 						</div>
 					</div>
 				</div>
