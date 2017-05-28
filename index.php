@@ -18,6 +18,7 @@ require_once("php/head-utils.php");
 
 		<!-- BEGIN ANIMSITION PAGE TRANSITIONS -->
 		<main>
+			<!-- custom animation set on element using data-animsition attributes -->
 			<div class="animsition home" data-animsition-in-class="fade-in-down-sm" data-animsition-out-class="fade-out-left-sm">
 				<div class="container-fluid">
 					<div class="row">

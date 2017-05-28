@@ -1,13 +1,16 @@
+/* prevents horizontal scrollbar at bottom
+while elements animate in and out of view */
 body {
 	overflow-x: hidden;
 }
 
+
+
 /***
-* Superfluous Page Styles
+* Begin Superfluous Page Styles
 *
 * These styles are not required for Animsition to function.
 ***/
-
 .navbar {
 	border-radius: 0;
 }
