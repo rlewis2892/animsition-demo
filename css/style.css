@@ -1,5 +1,18 @@
+/***
+* Superfluous Page Styles
+*
+* These styles are not required for Animsition to function.
+***/
+
 .navbar {
 	border-radius: 0;
+}
+
+.home {
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	min-height: 75vh;
 }
 
 footer {

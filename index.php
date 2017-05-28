@@ -18,11 +18,15 @@ require_once("php/head-utils.php");
 
 		<!-- BEGIN ANIMSITION PAGE TRANSITIONS -->
 		<main>
-			<div class="animsition">
+			<div class="animsition home" data-animsition-in-class="fade-in-down-sm" data-animsition-out-class="fade-out-left">
 				<div class="container-fluid">
 					<div class="row">
-						<div class="col-xs-12">
-							<h2>Home Pg</h2>
+						<div class="col-sm-8 col-sm-offset-2">
+							<div class="jumbotron text-center">
+								<h1>&nbsp;Animsition Demo&nbsp;</h1>
+								<hr>
+								<p class="lead">This is a multi-page static website that uses the <a href="http://git.blivesta.com/animsition/" target="_blank">Animsition</a> plugin to create animated page transitions.</p>
+							</div>
 						</div>
 					</div>
 				</div>

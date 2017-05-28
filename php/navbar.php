@@ -18,6 +18,7 @@
 					<li><a class="animsition-link" href="/~rlewis37/animsition-demo/"><i class="fa fa-home"></i></a></li>
 					<li><a class="animsition-link" href="<?php echo $PREFIX; ?>instructions">Instructions</a></li>
 					<li><a class="animsition-link" href="<?php echo $PREFIX; ?>about">About</a></li>
+					<li><a class="animsition-link" href="<?php echo $PREFIX; ?>random">Random</a></li>
 					<li><a href="https://github.com/rlewis2892/animsition-demo" target="_blank">GitHub</a></li>
 				</ul>
 			</div><!-- /.navbar-collapse -->
