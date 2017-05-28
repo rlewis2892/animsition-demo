@@ -54,6 +54,17 @@ require_once(dirname(__DIR__) . "/php/head-utils.php");
 								</div>
 							</div><!-- end bottom panel -->
 						</div>
+
+						<div class="col-sm-6 col-md-8">
+							<div class="panel panel-danger">
+								<div class="panel-heading">
+									<h4><i class="fa fa-exclamation-triangle"></i>&nbsp;Important Note</h4>
+								</div>
+								<div class="panel-body">
+									<p>Animsition requires jQuery version 1.11.0, version 3.x will not work. See <code>head-utils.php</code>.</p>
+								</div>
+							</div><!-- end top panel -->
+						</div>
 					</div><!--/.row-->
 
 				</div>

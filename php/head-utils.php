@@ -39,7 +39,7 @@ $PREFIX = str_repeat("../", $DEPTH_DIFFERENCE);
 		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 		<![endif]-->
 
-		<!-- jQuery v3.0 -->
+		<!-- jQuery v1.11.0 -->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="text/javascript"></script>
 
 		<!-- Latest compiled and minified JavaScript -->
